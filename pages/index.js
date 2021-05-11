@@ -7,7 +7,6 @@ export default function Home() {
     <div className="container">
       <Head>
         <title>W3.CSS</title>
-<meta name="viewport" content="width=device-width, initial-scale=1">
       </Head>
       <main>
        <h2 class="w3-center">Manual Slideshow</h2>
